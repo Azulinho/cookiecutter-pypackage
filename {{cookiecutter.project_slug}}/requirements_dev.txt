@@ -10,7 +10,6 @@ twine==1.12.1
 pylint
 ipython
 bpython
-watchdog
 ropevim
 tmuxp
 rope
