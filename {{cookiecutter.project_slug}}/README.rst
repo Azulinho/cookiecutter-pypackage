@@ -34,6 +34,16 @@ Features
 
 * TODO
 
+Development
+--------
+
+See the `Makefile`, to get started simply execute:
+
+.. code-block:: console
+
+    $ make up
+
+
 Credits
 -------
 
