@@ -6,5 +6,5 @@ if [ -e .venv ]; then
     virtualenv --python=`which python` .venv
     source .venv/bin/activate
     pip install -r requirements.txt
-    pip install -r requirements-dev.txt
+    pip install -r requirements_dev.txt
   fi
